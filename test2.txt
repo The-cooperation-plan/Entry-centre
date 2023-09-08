@@ -1,0 +1,23 @@
+Please record your screen and your face while completing this task. If you are not able to record, please ignore this file
+All data gained in this file or in the recording will be used for your own application ONLY. No commercial use.
+If you finished completing this task, you are sure to submit it to us or you can choose to delete it.
+You are welcome to apply/complete again and your application will be based on your latest submission
+
+You do not have a time limit to finish this task, so you have plenty of time to do consideration. Please type your response behind whenever a "R[]:" shows.
+
+1. Who are you (can be your avatar name)?
+R[]:
+
+2. What topic were you interested in?
+R[]:
+
+3. (optional) What is your coding story (The timeline of you getting to know with computer)?
+R[]:
+
+4. There is a mistake in this file, can you find it? (Reply either "yes" or "no")
+R[]:
+
+5. What is your future coding plan in your future?
+R[]:
+
+End of test2.txt, please commit to app.docx for furtner action.
